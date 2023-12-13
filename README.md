@@ -7,7 +7,7 @@ No encryption, no compression, no security.
 If not specified, all messages are ended with '\n' character.
 
 ### Request & Response
-```
+
 1. Request to server with 'Merry'.
 2. Server response with 'Christmas!'.
 3. Request to server with 'Chicken'.
